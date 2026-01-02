@@ -1,0 +1,15 @@
+{
+    "numerical": [
+        "Age",
+        "Systolic BP",
+        "Diastolic",
+        "BS",
+        "BMI",
+        "Heart Rate",
+        "Body Temp",
+        "Kick Count"
+    ],
+    "categorical": [
+        "Fluid Leakage"
+    ]
+}
